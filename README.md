@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -29,6 +29,6 @@
 
   <h3>Contact</h3>
   <p>For collaborations or inquiries, email us at <a href="mailto:beehivebureau@gmail.com">beehivebureau@gmail.com</a></p>
-</body>
-</html>
+
+
 
