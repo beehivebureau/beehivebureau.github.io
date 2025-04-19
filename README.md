@@ -4,7 +4,6 @@
     </div>
   
   </header>
-</body>
 
    _______________ Connecting people, creating possibilities. ________________
    <h3>About Us</h3>
