@@ -63,7 +63,7 @@ Thanks for visiting — we look forward to creating something exceptional with y
 
 <hr/>
 
-<em> Connnecting people, creating possibilities. </em>
+<h3><em> Connnecting people, creating possibilities. </em><h3></h3>
 
 
 
