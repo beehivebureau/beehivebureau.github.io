@@ -13,7 +13,7 @@
 
   
 
-  <hr/>
+  
 
   <h3>What We Do</h3>
   <p>Beehive Bureau offers content strategy, consulting, and creative execution to help businesses grow. We work with startups, creatives, and boutique brands to elevate positioning and unlock new potential through strategic thinking and tailored services.</p>
