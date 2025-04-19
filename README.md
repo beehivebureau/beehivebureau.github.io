@@ -26,7 +26,7 @@
   </ul>
 
   <h3>Who We Work With</h3>
-  <p>We collaborate with startups, boutique brands, independent businesses, creatives, and unique hospitality concepts to bring their vision to life with clarity and impact.</p>
+  <p>We work with startups, boutique brands, creatives, and independent businesses to transform bold ideas into meaningful realities—with clarity, creativity, and impact.</p>
 
   <h3>Contact</h3>
   <p>For collaborations or inquiries, email us at <a href="mailto:beehivebureau@gmail.com">beehivebureau@gmail.com</a></p>
