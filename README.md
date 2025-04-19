@@ -4,7 +4,7 @@
     </div>
   
   </header>
-<h3><em> Connnecting people, creating possibilities. </em><h3></h3>
+<h3><em> Connecting people, creating possibilities. </em><h3></h3>
   
 <br>
    
