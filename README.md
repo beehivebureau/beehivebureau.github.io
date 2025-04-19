@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Beehive Bureau</title>
 </head>
 <body>
   <h1>Beehive Bureau</h1>
   <h2>Smart Solutions. Seamless Connections. Real Results.</h2>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
 
-  <p><strong>Get in Touch:</strong> <a href="mailto:beehivebureau@gmail.com">beehivebureau@gmail.com</a></p>
+  <p><strong>Get in Touch:</strong> <"+91 8984627167">
 
   <hr/>
 
