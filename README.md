@@ -9,7 +9,7 @@
   <h2>Smart Solutions. Seamless Connections. Real Results.</h2>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
 
-  <p><strong>Get in Touch:</strong> +91 8984627167
+  <p><strong>Get in Touch:</strong>  https://wa.me/918984627167
 
   <hr/>
 
