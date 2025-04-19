@@ -8,7 +8,7 @@
   
 <br>
    
-  <p></p> <h2>About Us</h2></p>
+  <h1>About Us</h1> 
   <p>Beehive Bureau is a carefully curated collective of top-tier professionals, specialized companies, and highly skilled freelancers, all united by a shared commitment to delivering high-impact, results-driven business services. We operate as a dynamic network that blends strategic thinking, creative innovation, and operational excellence to help businesses grow, scale, and thrive in today’s competitive landscape. Whether you're a startup in need of branding and content strategy, a boutique hotel looking to reposition, or a company seeking expert-level consulting across industries — Beehive Bureau connects you with the right minds to move your business forward.</p>
 
   
@@ -59,10 +59,10 @@ Thanks for visiting — we look forward to creating something exceptional with y
 
 
 
-
-
-
-<hr/>
 <br>
-<h3>Contact</h3>
+<br>
+<br>
+
+<br>
+<h1>Contact</h1>
   Email us at <a href="mailto:beehivebureau@gmail.com">beehivebureau@gmail.com</a>
