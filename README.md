@@ -19,8 +19,8 @@
 
  
   <ul>
-    <li>Content Strategy</li>
     <li>Business Consulting</li>
+    <li>Content Strategy</li>
     <li>Branding & Storytelling</li>
     <li>Creative & Marketing Solutions</li>
   </ul>
