@@ -8,7 +8,7 @@
   
 
    
-   <h3>About Us</h3>
+   <h1>About Us</h1>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
 
   
@@ -29,8 +29,10 @@
   <h3>Who We Work With</h3>
   <p>We work with startups, boutique brands, creatives, and independent businesses to transform bold ideas into meaningful realities—with clarity, creativity, and impact.</p>
 
-  <h3>Contact</h3>
+  <h1>Contact</h1>
   <p>For collaborations or inquiries, email us at <a href="mailto:beehivebureau@gmail.com">beehivebureau@gmail.com</a></p>
 
 
 
+<hr/>
+<em> <h3>Connnecting people, creating possibilities.</h3> </em>
