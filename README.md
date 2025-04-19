@@ -65,4 +65,4 @@ Thanks for visiting — we look forward to creating something exceptional with y
 
 <br>
 <h1>Contact</h1>
-  Email us at <a href="mailto:beehivebureau@gmail.com">beehivebureau@gmail.com</a>
+  Email us at <a href="mailto:beehivebureau@mail.com">beehivebureau@mail.com</a>
