@@ -5,7 +5,7 @@
   
   </header>
 </body>
-<body>
+
    _______________ Connecting people, creating possibilities. ________________
    <h3>About Us</h3>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
