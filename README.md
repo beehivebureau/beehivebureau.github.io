@@ -1,12 +1,12 @@
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-</head>
-<body>
+ <header>
+    <div class="header-logo-container">
+      <img src="BB-Logo-Git.png" alt="Beehive Bureau Logo" class="header-logo" />
+    </div>
   
-  <h2>Connecting people, creating possibilities.</h2>
+  </header>
+</body>
+<body>
+   _______________ Connecting people, creating possibilities. ________________
    <h3>About Us</h3>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
 
