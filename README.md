@@ -6,7 +6,7 @@
 </head>
 <body>
   
-  <h2>Seamless Connections. Smart Solutions.</h2>
+  <h2>Connecting people, creating possibilities.</h2>
    <h3>About Us</h3>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
 
