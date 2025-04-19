@@ -1,6 +1,6 @@
  <header>
     <div class="header-logo-container">
-      <img src="BB-Git.PNG" alt="Beehive Bureau Logo" class="header-logo" />
+      <img src="BB-Logo-Git.png" alt="Beehive Bureau Logo" class="header-logo" />
     </div>
   
   </header>
