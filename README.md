@@ -5,18 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-  <h1>Beehive Bureau</h1>
+  
   <h2>Seamless Connections. Smart Solutions.</h2>
+   <h3>About Us</h3>
   <p>Beehive Bureau is a curated network of top-tier professionals, companies, and freelancers delivering high-impact business services.</p>
 
-  <p><strong>Get in Touch:</strong>  https://wa.me/918984627167
+  
 
   <hr/>
 
-  <h3>About Us</h3>
+  <h3>What We Do</h3>
   <p>Beehive Bureau offers content strategy, consulting, and creative execution to help businesses grow. We work with startups, creatives, and boutique brands to elevate positioning and unlock new potential through strategic thinking and tailored services.</p>
 
-  <h3>What We Do</h3>
+ 
   <ul>
     <li>Content Strategy</li>
     <li>Business Consulting</li>
