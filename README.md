@@ -25,28 +25,22 @@ Our curated network of experts brings a wealth of experience across multiple ind
 
 Our core offerings include:
 
-Business Consulting
-We provide actionable insights and expert guidance on positioning, growth strategies, and operational efficiency. Whether you’re refining your business model or scaling to new heights, we help you make informed, strategic decisions that unlock your company’s true potential.
+<li>Business Consulting</li>
+<p></p>We provide actionable insights and expert guidance on positioning, growth strategies, and operational efficiency. Whether you’re refining your business model or scaling to new heights, we help you make informed, strategic decisions that unlock your company’s true potential.</p>
 
-Content Strategy
-Content is at the heart of every successful business today, and we specialize in crafting content strategies that engage, educate, and inspire your audience. From digital content frameworks to storytelling that resonates, we design strategies that help businesses build long-term relationships with their customers.
+ <li>Content Strategy</li>
+<p>Content is at the heart of every successful business today, and we specialize in crafting content strategies that engage, educate, and inspire your audience. From digital content frameworks to storytelling that resonates, we design strategies that help businesses build long-term relationships with their customers.</p>
 
-Branding & Storytelling
-A brand isn’t just a logo—it’s a story waiting to be told. We help businesses define and amplify their voice, crafting compelling narratives that connect with audiences on an emotional level. Through strategic branding, we build identities that are distinct, authentic, and memorable, driving both recognition and loyalty.
+<li>Branding & Storytelling</li>
+<p>A brand isn’t just a logo—it’s a story waiting to be told. We help businesses define and amplify their voice, crafting compelling narratives that connect with audiences on an emotional level. Through strategic branding, we build identities that are distinct, authentic, and memorable, driving both recognition and loyalty.</p>
 
-Creative & Marketing Solutions
-Our team of creatives brings your vision to life through innovative campaigns, eye-catching design, and integrated marketing strategies. From visual branding to digital marketing, we deliver creative solutions that resonate, spark engagement, and drive results across channels.
+<li>Creative & Marketing Solutions</li>
+<p>Our team of creatives brings your vision to life through innovative campaigns, eye-catching design, and integrated marketing strategies. From visual branding to digital marketing, we deliver creative solutions that resonate, spark engagement, and drive results across channels.</p>
 
 Beehive Bureau is not just a service provider—we’re your strategic partner, committed to delivering results that matter. Whether you're a startup seeking to make your mark or an established brand looking for fresh, innovative approaches, we offer the expertise, creativity, and support to help you grow and succeed in today’s fast-paced business landscape.</p>
 
  
-  <ul>
-    <li>Business Consulting</li>
-    <li>Content Strategy</li>
-    <li>Branding & Storytelling</li>
-    <li>Creative & Marketing Solutions</li>
-  </ul>
-
+  
   <h3>Who We Work With</h3>
   <p>Beehive Bureau partners with startups, boutique brands, creatives, and independent businesses to transform bold ideas into meaningful realities. With a focus on clarity, creativity, and impact, we help businesses bring their unique visions to life. Our approach blends strategic insight, innovative thinking, and hands-on execution to elevate brands, drive growth, and make a lasting impact.
 
